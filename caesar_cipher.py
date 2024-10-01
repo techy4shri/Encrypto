@@ -1,5 +1,5 @@
 import tkinter as tk
-import customtkinter as ct
+
 from tkinter import messagebox
 
 # Encryption/Decryption Function (same for both)
@@ -53,7 +53,7 @@ def decrypt_text():
 # Create the main window
 window = tk.Tk()
 window.title("Caesar Cipher")
-window.geometry("400x300")
+window.geometry("800x500")
 
 # Label for instructions
 label_instruction = tk.Label(window, text="Enter the text and shift value for encryption/decryption:")
