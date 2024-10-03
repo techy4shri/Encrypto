@@ -56,11 +56,8 @@ def decrypt_text():
 # Create the main window
 window = tk.Tk()
 window.title("Caesar Cipher")
-<<<<<<< HEAD
 window.geometry("800x500")
-=======
-window.geometry("400x300")
->>>>>>> 330fed9e844a2c124ff1352f1fcbdc1207110cad
+
 
 # Label for instructions
 label_instruction = tk.Label(window, text="Enter the text and shift value for encryption/decryption:")
