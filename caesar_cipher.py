@@ -1,8 +1,4 @@
 import tkinter as tk
-<<<<<<< HEAD
-
-=======
->>>>>>> 330fed9e844a2c124ff1352f1fcbdc1207110cad
 from tkinter import messagebox
 
 # Encryption/Decryption Function (same for both)
@@ -21,7 +17,7 @@ def caesar_cipher(text, s):
 
     return result
 
-# Function to handle encryption
+# Function to handle encryption hello
 def encrypt_text():
     text = entry_text.get()
     try:
