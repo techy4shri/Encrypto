@@ -35,4 +35,3 @@ Dependencies:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Made for coursework, converted into personal project. 
-Librepay is in process, kindly go to github sponsors for now.
