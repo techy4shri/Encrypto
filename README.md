@@ -7,7 +7,7 @@ Encrypto is a simple Python application designed for encrypting and decrypting t
 - **Graphical User Interface:** A clean and intuitive UI powered by CustomTkinter, offering easy access to encrypt and decrypt text.
 - **Text Handling:** Supports text input through a text box and displays the encrypted or decrypted result immediately.
 
-## Run the Code
+## Run the Code 
 
 1. Fork the repo.
 2. Clone the fork locally: `git clone https://github.com/yourusername/encrypto`
